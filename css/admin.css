@@ -1,0 +1,26 @@
+body {
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+}
+.table_content{
+	 width: 100%;
+	 height: 520px;
+	 border: 0;
+	 cell-padding: 8px;
+     cell-spacing: 1px;
+	 background-color:#ccc;
+}
+
+/*后台管理*/
+/*height="89" colspan="2" bgcolor="#FFFF99" align="center"*/
+.table_content .td_manage{
+	display: block;
+	height: 89px;
+	line-height: 89px;
+	text-align: center;
+	column-span: 2;
+	background-color: #FFFF99;
+	
+}
